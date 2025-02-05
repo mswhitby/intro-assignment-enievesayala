@@ -2,4 +2,4 @@
 def intro_assignment():
   print("Grade: 100")
   
-intro_assignment():
+intro_assignment()
